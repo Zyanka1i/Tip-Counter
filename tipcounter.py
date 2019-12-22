@@ -23,6 +23,6 @@ else:
     print(change)
 #Ausgabe Trinkgeld
 print("Tip: ", tip)
-
+# Zusammenzählung des Trinkgeldes
 Total: float = (0 + tip)
 print("Total Tip: ", Total)
